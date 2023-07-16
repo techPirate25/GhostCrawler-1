@@ -7,4 +7,4 @@ if __name__ == '__main__':
         GhostCrawler = main.GhostCrawler(args)
         GhostCrawler.perform_action()
     except KeyboardInterrupt:
-        print("Interrupt received! Exiting cleanly...")
+        print("Interrupt recieved! ready to go.")
